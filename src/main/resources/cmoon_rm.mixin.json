@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.silentevermore.cmoon_rm.mixin",
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "EntityMixin"
+  ],
+  "refmap": "cmoon_rm.mixin-refmap.json"
+}

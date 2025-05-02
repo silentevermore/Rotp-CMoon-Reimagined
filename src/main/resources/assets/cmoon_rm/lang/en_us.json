@@ -1,0 +1,10 @@
+{
+  "entity.cmoon_rm.cmoon": "C-Moon",
+  "stand.cmoon_rm.cmoon": "C-Moon",
+  "action.cmoon_rm.cmoon_punch": "Inversional Punch",
+  "action.cmoon_rm.cmoon_heavy_punch": "Heavy Punch",
+  "action.cmoon_rm.cmoon_finisher_punch": "Finisher Punch",
+  "action.cmoon_rm.cmoon_barrage": "Inversional Punch Barrage",
+  "action.cmoon_rm.cmoon_block": "Block",
+  "action.cmoon_rm.cmoon_gravity_change": "Change direction of gravity"
+}

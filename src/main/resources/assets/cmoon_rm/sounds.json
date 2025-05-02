@@ -1,0 +1,14 @@
+{
+  "cmoon_summon_sound": {
+    "sounds": ["cmoon_rm:stand/summon_sound"]
+  },
+  "cmoon_unsummon_sound": {
+    "sounds": ["cmoon_rm:stand/unsummon_sound"]
+  },
+  "cmoon_gravity_shift_normal": {
+    "sounds": ["cmoon_rm:action/gravity_shift_normal"]
+  },
+  "cmoon_barrage_swing": {
+    "sounds": ["cmoon_rm:stand/barrage"]
+  }
+}
